@@ -1,0 +1,19 @@
+Rotated Logic-Gate Panels and Acyclic Connection Graphs
+Version 20260919-logic-eco-v3
+Copyright 2026 Nirma
+
+The original dataset files in this archive are licensed under the Creative
+Commons Attribution 4.0 International License (CC BY 4.0).
+
+License and legal terms:
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/legalcode.en
+
+The license permits sharing and adaptation, including commercial use, subject
+to its attribution and other terms. Provide creator/title/version credit,
+a license link and an indication of changes. No endorsement is implied.
+
+This notice covers original data, images and documentation in this dataset
+archive. It does not purport to relicense referenced papers, external websites
+or third-party software. No warranty of fitness for physical circuit design
+or safety-critical engineering is offered.
